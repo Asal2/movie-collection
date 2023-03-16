@@ -1,0 +1,6 @@
+Host,R,57,46,6.5,10
+His House,R,93,25,6.8,15
+Farewell Amor,PG-13,95,20,6.1,20
+Driveways,R,83,85,7.4,12
+Half of It,PG-13,105,25,6.9,32
+Soul,G,107,15,8.1,27

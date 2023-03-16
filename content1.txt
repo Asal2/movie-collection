@@ -1,0 +1,5 @@
+Legally Blonde,PG-13,96,19,7.4,16
+Birdman,R,119,17,7.8,10
+If I Stay,PG-13,106,5,6.4,9
+Boyhood,R,164,15,7.2,93
+Reba,G,60,20,6,12
